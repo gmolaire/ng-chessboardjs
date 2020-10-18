@@ -19,6 +19,9 @@
       "ng-chessboardjs": [
         "dist/ng-chessboardjs/ng-chessboardjs",
         "dist/ng-chessboardjs"
+      ],
+      "@angular/*": [
+        "./node_modules/@angular/*"
       ]
     }
   }
